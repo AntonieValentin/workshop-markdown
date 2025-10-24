@@ -9,8 +9,8 @@
 > e foarte important asta1
 
 1. * :+1: U
-   * :+2: S
-      * hello
+   * :-2: S
+      * hello[^1]
 2. - O
 
 
