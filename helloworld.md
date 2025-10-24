@@ -12,7 +12,7 @@ We list below Helloworld programs for different programming languages, i.e. prog
 
 # C
 
-```console
+```c
 #include <stdio.h>
 
 int main(void)
